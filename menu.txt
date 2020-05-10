@@ -7,3 +7,7 @@ chicken
 fried rice
 
 curd rice
+
+
+beans
+brinjal
